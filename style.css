@@ -14,3 +14,10 @@ header{
 h1{
     color: burlywood;
 }
+
+h2{
+    padding: 20px;
+    color: brown;
+    border: 2 solid black;
+    border-radius: 10px;
+}
